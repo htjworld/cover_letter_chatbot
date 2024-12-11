@@ -35,7 +35,8 @@
 
 #### **예시**:
 <img width="743" alt="image" src="https://github.com/user-attachments/assets/03c668ea-0652-40f5-a980-bb4183cc6a03">
-_아직 논리적인 자소서 작성까진 못하는 듯 하다..(더 많은 학습 필요)_
+
+*아직 논리적인 자소서 작성까진 못하는 듯 하다..(더 많은 학습 필요)*
 
 ### 3. 사용 기술
 - 프로그래밍 언어: Python
